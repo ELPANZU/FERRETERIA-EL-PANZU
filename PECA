@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Ferretería El Panzu</title>
+<style>
+body { font-family: Arial; background:#0d47a1; color:white; text-align:center; }
+h1 { color:red; }
+.btn {
+  background: green;
+  color: white;
+  padding: 15px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>FERRETERÍA EL PANZU</h1>
+<p>Herramientas - Plomería - Iluminación - Bazar</p>
+
+<a class="btn" href="https://wa.me/5492223425683">
+📲 Pedir por WhatsApp
+</a>
+
+</body>
+</html>
